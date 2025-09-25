@@ -286,13 +286,6 @@ Perumal Manimekalai College of Engineering, Hosur
 - **React** and **Tailwind CSS** for frontend framework
 - **Pexels** for sample satellite imagery
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- 📧 Email: tharun.bala@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/sentinel-ai/issues)
-- 📖 Documentation: [Wiki](https://github.com/your-username/sentinel-ai/wiki)
 
 ---
 
