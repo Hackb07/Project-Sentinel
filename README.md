@@ -27,7 +27,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sentinel-ai.git
+   git clone https://github.com/Hackb07/sentinel-ai.git
    cd sentinel-ai
    ```
 
